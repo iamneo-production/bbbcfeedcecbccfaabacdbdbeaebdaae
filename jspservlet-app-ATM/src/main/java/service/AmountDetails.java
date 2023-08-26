@@ -1,5 +1,4 @@
 package service;
-
 public class AmountDetails implements InterfaceClass {
 
     public double withdrawAmount(double arg1, double arg2) {
